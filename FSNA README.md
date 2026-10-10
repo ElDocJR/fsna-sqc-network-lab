@@ -39,4 +39,4 @@ Sources: the supplied FSNA Basic Complete Lab Configuration guide and my FSNA SQ
 
 This is a simulated educational project. It does not claim production deployment experience, complete NAT/PAT implementation, or separately scored wireless validation. VLAN segmentation is not, by itself, a policy preventing routed inter-VLAN communication.
 
-[View assessment results (public copy)](Evidence_FSNA-SQC-Results.pdf)
+[View assessment results (public copy)](https://github.com/ElDocJR/fsna-sqc-network-lab/blob/main/evidence_FSNA-SQC-Results.pdf)
